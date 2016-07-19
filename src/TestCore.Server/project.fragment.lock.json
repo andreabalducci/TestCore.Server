@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "exports": {
+    "TestCore.Core/1.0.0": {
+      "type": "project",
+      "framework": ".NETFramework,Version=v4.5.2",
+      "compile": {
+        "bin/Debug/TestCore.Core.dll": {}
+      },
+      "runtime": {
+        "bin/Debug/TestCore.Core.dll": {}
+      },
+      "contentFiles": {
+        "bin/Debug/TestCore.Core.pdb": {
+          "buildAction": "None",
+          "codeLanguage": "any",
+          "copyToOutput": true
+        }
+      }
+    }
+  }
+}
